@@ -1,4 +1,3 @@
-# FTP-Client-Server-Application
 # FTP Client-Server Application
 
 A basic FTP (File Transfer Protocol) client-server implementation in C#, demonstrating core FTP functionalities with a GUI client and a console-based server.
